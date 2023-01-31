@@ -3,7 +3,7 @@
 
 ### 1. Setup Twilio Account
 #####  Go to the Twilio site and get register yourself. https://www.twilio.com/
-![Twillio Register](https://i.ibb.co/hF7JvBX/screenshot-www-twilio-com-2023-01-19-10-28-02.png)
+![Twillio Register 0.1](https://i.ibb.co/hF7JvBX/screenshot-www-twilio-com-2023-01-19-10-28-02.png)
 
 ### 2. Once you get registered, verify your Email ID.
 ### 3. Once your email id gets verified, you need to add and verify your mobile number. (You will receive the OTP)
