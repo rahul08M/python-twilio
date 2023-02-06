@@ -7,10 +7,10 @@
 
 ### 2. Once you get registered, verify your Email ID.
 ### 3. Once your email id gets verified, you need to add and verify your mobile number. (You will receive the OTP)
-![Twillio OTP](https://i.ibb.co/wg1rmL5/twill-otp.png)
+![Twillio OTP 0.1](https://i.ibb.co/wg1rmL5/twill-otp.png)
 
 ### 4. After mobile and email verification fill in the basic information.
-![Twillio Bisc info](https://i.ibb.co/YQ61MVJ/1-te-XA-g-C1-VF7-ZUF-a-B1h5lg.png)
+![Twillio Bisc info 0.1](https://i.ibb.co/YQ61MVJ/1-te-XA-g-C1-VF7-ZUF-a-B1h5lg.png)
 
 ### 5. Twilio provides a virtual mobile number to send the SMS for the free account. You need to click on the (Get Virtual Phone Number) button.
 ![Twillio Virtual number](https://i.ibb.co/Jqgs2QH/1-a-Jm7agvyi-V0-Aor-INOq3-Eu-A.png)
